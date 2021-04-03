@@ -1,0 +1,42 @@
+[2021-04-04 00:45:44.746] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-04-04 00:45:44.746] [remoteagent] [info] Extension host agent started.
+[2021-04-04 00:45:44.908] [remoteagent] [info] [::ffff:127.0.0.1][b31586f8][ManagementConnection] New connection established.
+[2021-04-04 00:45:44.909] [remoteagent] [info] [::ffff:127.0.0.1][65eb034a][ExtensionHostConnection] New connection established.
+[2021-04-04 00:45:44.973] [remoteagent] [info] Deleted from disk vscjava.vscode-java-test /home/prabal17shetty/.vscode-server/extensions/vscjava.vscode-java-test-0.28.1
+[2021-04-04 00:45:48.040] [remoteagent] [info] [::ffff:127.0.0.1][65eb034a][ExtensionHostConnection] <317> Launched Extension Host Process.
+[2021-04-04 00:48:05.471] [remoteagent] [info] [::ffff:127.0.0.1][b31586f8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-04-04 00:48:06.493] [remoteagent] [info] [::ffff:127.0.0.1][65eb034a][ExtensionHostConnection] <317> Extension Host Process exited with code: 0, signal: null.
+[2021-04-04 00:48:06.494] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-04-04 00:48:06.953] [remoteagent] [info] [::ffff:127.0.0.1][bc045747][ManagementConnection] New connection established.
+[2021-04-04 00:48:06.998] [remoteagent] [info] [::ffff:127.0.0.1][1ccbaec9][ExtensionHostConnection] New connection established.
+[2021-04-04 00:48:07.022] [remoteagent] [info] [::ffff:127.0.0.1][1ccbaec9][ExtensionHostConnection] <586> Launched Extension Host Process.
+[2021-04-04 00:49:34.720] [remoteagent] [info] Installing extension: redhat.java
+[2021-04-04 00:49:49.428] [remoteagent] [info] Downloaded extension: redhat.java undefined
+[2021-04-04 00:49:50.774] [remoteagent] [info] Extracted extension to /home/prabal17shetty/.vscode-server/extensions/.46c8706f-18a3-4e95-a23e-97dbff48dc0e: redhat.java
+[2021-04-04 00:49:50.808] [remoteagent] [info] Renamed to /home/prabal17shetty/.vscode-server/extensions/redhat.java-0.76.0
+[2021-04-04 00:49:50.823] [remoteagent] [info] Installation completed. redhat.java
+[2021-04-04 00:49:50.828] [remoteagent] [info] Extensions installed successfully: redhat.java
+[2021-04-04 00:53:06.494] [remoteagent] [info] New EH opened, aborting shutdown
+[2021-04-04 00:54:56.941] [remoteagent] [info] [::ffff:127.0.0.1][bc045747][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-04-04 00:54:57.997] [remoteagent] [info] [::ffff:127.0.0.1][1ccbaec9][ExtensionHostConnection] <586> Extension Host Process exited with code: 0, signal: null.
+[2021-04-04 00:54:57.998] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-04-04 00:54:58.406] [remoteagent] [info] [::ffff:127.0.0.1][15b4fd0f][ManagementConnection] New connection established.
+[2021-04-04 00:54:58.450] [remoteagent] [info] [::ffff:127.0.0.1][34d757e3][ExtensionHostConnection] New connection established.
+[2021-04-04 00:54:58.470] [remoteagent] [info] [::ffff:127.0.0.1][34d757e3][ExtensionHostConnection] <655> Launched Extension Host Process.
+[2021-04-04 00:56:09.421] [remoteagent] [info] [::ffff:127.0.0.1][15b4fd0f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-04-04 00:56:10.455] [remoteagent] [info] [::ffff:127.0.0.1][34d757e3][ExtensionHostConnection] <655> Extension Host Process exited with code: 0, signal: null.
+[2021-04-04 00:56:10.455] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-04-04 00:56:10.455] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-04-04 00:56:10.883] [remoteagent] [info] [::ffff:127.0.0.1][5b607c24][ManagementConnection] New connection established.
+[2021-04-04 00:56:10.925] [remoteagent] [info] [::ffff:127.0.0.1][8172a18d][ExtensionHostConnection] New connection established.
+[2021-04-04 00:56:10.946] [remoteagent] [info] [::ffff:127.0.0.1][8172a18d][ExtensionHostConnection] <729> Launched Extension Host Process.
+[2021-04-04 01:01:10.456] [remoteagent] [info] New EH opened, aborting shutdown

@@ -1,0 +1,7 @@
+[user]
+	name = prabal17shetty
+	email = prabal17shetty@gmail.com
+[core]
+	editor = code --wait
+[push]
+	default = current

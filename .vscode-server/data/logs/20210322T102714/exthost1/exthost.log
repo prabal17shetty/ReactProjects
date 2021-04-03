@@ -1,0 +1,23 @@
+[2021-03-22 10:27:45.782] [exthost] [info] extension host started
+[2021-03-22 10:27:45.899] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-03-22 10:27:45.901] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/prabal17shetty/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/debug-auto-launch/dist/extension
+[2021-03-22 10:27:46.028] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-03-22 10:27:46.029] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/prabal17shetty/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/git/dist/main
+[2021-03-22 10:27:46.830] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2021-03-22 10:27:46.830] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/prabal17shetty/.vscode-server/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2021-03-22 10:28:19.137] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-03-22 10:28:19.137] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/prabal17shetty/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/emmet/dist/node/emmetNodeMain
+[2021-03-22 10:28:19.267] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-03-22 10:28:19.267] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/prabal17shetty/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/merge-conflict/dist/mergeConflictMain
+[2021-03-22 10:28:19.310] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-03-22 10:28:19.310] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/prabal17shetty/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/testing-editor-contributions/dist/extension.js
+[2021-03-22 10:28:26.209] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-03-22 10:28:26.209] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/prabal17shetty/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/github/dist/extension.js
+[2021-03-22 10:28:26.402] [exthost] [info] eager extensions activated
+[2021-03-22 10:28:26.412] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-03-22 10:28:26.412] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/prabal17shetty/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/ms-vscode.js-debug/src/extension.js
+[2021-03-22 10:28:42.694] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-03-22 10:29:53.740] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2021-03-22 10:29:53.743] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/prabal17shetty/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/typescript-language-features/dist/extension
+[2021-03-22 16:05:05.970] [exthost] [info] extension host terminating: renderer disconnected for too long (1)
+[2021-03-22 16:05:07.184] [exthost] [info] exiting with code 0

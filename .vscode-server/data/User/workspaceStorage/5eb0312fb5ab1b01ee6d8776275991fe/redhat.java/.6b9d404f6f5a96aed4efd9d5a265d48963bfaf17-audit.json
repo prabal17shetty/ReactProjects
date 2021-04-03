@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 2
+    },
+    "auditLog": "/home/prabal17shetty/.vscode-server/data/User/workspaceStorage/5eb0312fb5ab1b01ee6d8776275991fe/redhat.java/.6b9d404f6f5a96aed4efd9d5a265d48963bfaf17-audit.json",
+    "files": [
+        {
+            "date": 1617477591572,
+            "name": "/home/prabal17shetty/.vscode-server/data/User/workspaceStorage/5eb0312fb5ab1b01ee6d8776275991fe/redhat.java/client.log.2021-04-04",
+            "hash": "6f962792b5fbfa4c9bf1a75711872064"
+        }
+    ]
+}

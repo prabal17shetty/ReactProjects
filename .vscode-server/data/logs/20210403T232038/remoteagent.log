@@ -1,0 +1,49 @@
+[2021-04-03 23:20:39.034] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-04-03 23:20:39.034] [remoteagent] [info] Extension host agent started.
+[2021-04-03 23:20:40.166] [remoteagent] [info] [::ffff:127.0.0.1][aac5efa6][ManagementConnection] New connection established.
+[2021-04-03 23:20:40.168] [remoteagent] [info] [::ffff:127.0.0.1][b627c6d0][ExtensionHostConnection] New connection established.
+[2021-04-03 23:20:44.418] [remoteagent] [info] [::ffff:127.0.0.1][b627c6d0][ExtensionHostConnection] <335> Launched Extension Host Process.
+[2021-04-03 23:21:07.796] [remoteagent] [info] [::ffff:127.0.0.1][b627c6d0][ExtensionHostConnection] The client has reconnected.
+[2021-04-04 00:35:29.894] [remoteagent] [info] Installing extension: vscjava.vscode-java-pack
+[2021-04-04 00:36:02.622] [remoteagent] [info] Downloaded extension: vscjava.vscode-java-pack undefined
+[2021-04-04 00:36:02.732] [remoteagent] [info] Extracted extension to /home/prabal17shetty/.vscode-server/extensions/.e1751da7-aee8-4b82-9360-4796fb21a8de: vscjava.vscode-java-pack
+[2021-04-04 00:36:02.747] [remoteagent] [info] Renamed to /home/prabal17shetty/.vscode-server/extensions/vscjava.vscode-java-pack-0.13.0
+[2021-04-04 00:36:02.757] [remoteagent] [info] Installation completed. vscjava.vscode-java-pack
+[2021-04-04 00:36:03.435] [remoteagent] [info] Installing extension: visualstudioexptteam.vscodeintellicode
+[2021-04-04 00:36:03.436] [remoteagent] [info] Installing extension: redhat.java
+[2021-04-04 00:36:03.437] [remoteagent] [info] Installing extension: vscjava.vscode-java-debug
+[2021-04-04 00:36:03.438] [remoteagent] [info] Installing extension: vscjava.vscode-maven
+[2021-04-04 00:36:03.438] [remoteagent] [info] Installing extension: vscjava.vscode-java-test
+[2021-04-04 00:36:03.440] [remoteagent] [info] Installing extension: vscjava.vscode-java-dependency
+[2021-04-04 00:38:07.729] [remoteagent] [info] Downloaded extension: vscjava.vscode-maven undefined
+[2021-04-04 00:38:08.133] [remoteagent] [info] Extracted extension to /home/prabal17shetty/.vscode-server/extensions/.b69cffad-5e53-45eb-8b55-f8fc3aa8d762: vscjava.vscode-maven
+[2021-04-04 00:38:08.154] [remoteagent] [info] Renamed to /home/prabal17shetty/.vscode-server/extensions/vscjava.vscode-maven-0.28.0
+[2021-04-04 00:38:08.176] [remoteagent] [info] Installation completed. vscjava.vscode-maven
+[2021-04-04 00:38:08.180] [remoteagent] [info] Extensions installed successfully: vscjava.vscode-maven
+[2021-04-04 00:38:21.285] [remoteagent] [info] Downloaded extension: vscjava.vscode-java-test undefined
+[2021-04-04 00:38:21.513] [remoteagent] [info] Extracted extension to /home/prabal17shetty/.vscode-server/extensions/.d23d28fd-ffab-4ce1-ad13-1220ffa371a9: vscjava.vscode-java-test
+[2021-04-04 00:38:21.542] [remoteagent] [info] Renamed to /home/prabal17shetty/.vscode-server/extensions/vscjava.vscode-java-test-0.28.1
+[2021-04-04 00:38:21.551] [remoteagent] [info] Installation completed. vscjava.vscode-java-test
+[2021-04-04 00:38:28.990] [remoteagent] [info] Downloaded extension: vscjava.vscode-java-debug undefined
+[2021-04-04 00:38:29.086] [remoteagent] [info] Extracted extension to /home/prabal17shetty/.vscode-server/extensions/.34253d94-8330-4116-9ab7-4db2474b4b87: vscjava.vscode-java-debug
+[2021-04-04 00:38:29.106] [remoteagent] [info] Renamed to /home/prabal17shetty/.vscode-server/extensions/vscjava.vscode-java-debug-0.32.1
+[2021-04-04 00:38:29.116] [remoteagent] [info] Installation completed. vscjava.vscode-java-debug
+[2021-04-04 00:38:29.120] [remoteagent] [info] Extensions installed successfully: vscjava.vscode-java-debug
+[2021-04-04 00:38:31.236] [remoteagent] [info] Uninstalling extension: vscjava.vscode-java-test
+[2021-04-04 00:38:31.309] [remoteagent] [info] Successfully uninstalled extension: vscjava.vscode-java-test
+[2021-04-04 00:38:39.466] [remoteagent] [error] Failed to install extension: vscjava.vscode-java-test Client network socket disconnected before secure TLS connection was established
+[2021-04-04 00:43:42.553] [remoteagent] [info] Downloaded extension: visualstudioexptteam.vscodeintellicode undefined
+[2021-04-04 00:43:43.184] [remoteagent] [info] Extracted extension to /home/prabal17shetty/.vscode-server/extensions/.239568a9-fd4a-4eb1-976c-688828808576: visualstudioexptteam.vscodeintellicode
+[2021-04-04 00:43:43.203] [remoteagent] [info] Renamed to /home/prabal17shetty/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.12
+[2021-04-04 00:43:43.212] [remoteagent] [info] Installation completed. visualstudioexptteam.vscodeintellicode
+[2021-04-04 00:43:43.215] [remoteagent] [info] Extensions installed successfully: visualstudioexptteam.vscodeintellicode
+[2021-04-04 00:43:50.836] [remoteagent] [info] [::ffff:127.0.0.1][aac5efa6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
